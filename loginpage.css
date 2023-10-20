@@ -1,0 +1,52 @@
+html{
+    position: relative;
+    min-height: 100%;
+}
+
+
+body{
+    background: url(bg.jpg) no-repeat center center;
+    /* background-repeat: no-repeat; */
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+/* Jumbotron */
+.jumbotron{
+    background-color: transparent;
+    text-align: center;
+    letter-spacing: 1.5px;
+    margin-top: 150px;
+    padding: 10px;
+}
+
+/* Fotoer */
+.footer{
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    padding-top: 10px;
+}
+
+/* navbar */
+
+.navbar, .footer{
+    background-color:#9ED5C5;
+}
+
+/* Buttons */
+
+.signup{
+    margin-top: 50px;
+
+}
+
+.green{
+    background-color: #8ec3b0b4;
+}
+
+.green:hover{
+    background-color: #8ec3b0;
+}
+
