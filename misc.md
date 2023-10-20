@@ -12,3 +12,8 @@ refer to the following url: <https://forum.infinityfree.net/t/my-php-file-giving
 ``` php
 php_flag display_errors on  
 ```
+
+
+forgot-password.php & signup.php files
+$mail->Username   = 'vsk102002@gmail.com';                     //SMTP username
+$mail->Password   = 'mfvxmhbsnuudqibt';   
